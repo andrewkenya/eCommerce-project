@@ -1,0 +1,19 @@
+[06-Jan-2017 15:59:46 Africa/Nairobi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/webcubeco/public_html/E-Commerce/functions/functions.php on line 2
+[06-Jan-2017 16:01:30 Africa/Nairobi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/webcubeco/public_html/E-Commerce/functions/functions.php on line 194
+[06-Jan-2017 16:01:30 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webcubeco/public_html/E-Commerce/functions/functions.php on line 199
+[06-Jan-2017 16:01:40 Africa/Nairobi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/webcubeco/public_html/E-Commerce/functions/functions.php on line 194
+[06-Jan-2017 16:01:40 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webcubeco/public_html/E-Commerce/functions/functions.php on line 199
+[06-Jan-2017 16:11:05 Africa/Nairobi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/webcubeco/public_html/E-Commerce/functions/functions.php on line 194
+[06-Jan-2017 16:11:05 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webcubeco/public_html/E-Commerce/functions/functions.php on line 199
+[06-Jan-2017 16:11:53 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webcubeco/public_html/E-Commerce/functions/functions.php on line 115
+[06-Jan-2017 16:11:53 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webcubeco/public_html/E-Commerce/functions/functions.php on line 134
+[06-Jan-2017 16:11:53 Africa/Nairobi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/webcubeco/public_html/E-Commerce/functions/functions.php on line 71
+[06-Jan-2017 16:11:53 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webcubeco/public_html/E-Commerce/functions/functions.php on line 89
+[06-Jan-2017 16:11:53 Africa/Nairobi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/webcubeco/public_html/E-Commerce/functions/functions.php on line 194
+[06-Jan-2017 16:11:53 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webcubeco/public_html/E-Commerce/functions/functions.php on line 199
+[06-Jan-2017 16:12:17 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webcubeco/public_html/E-Commerce/functions/functions.php on line 115
+[06-Jan-2017 16:12:17 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webcubeco/public_html/E-Commerce/functions/functions.php on line 134
+[06-Jan-2017 16:12:17 Africa/Nairobi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/webcubeco/public_html/E-Commerce/functions/functions.php on line 71
+[06-Jan-2017 16:12:17 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webcubeco/public_html/E-Commerce/functions/functions.php on line 89
+[06-Jan-2017 16:12:17 Africa/Nairobi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/webcubeco/public_html/E-Commerce/functions/functions.php on line 194
+[06-Jan-2017 16:12:17 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webcubeco/public_html/E-Commerce/functions/functions.php on line 199

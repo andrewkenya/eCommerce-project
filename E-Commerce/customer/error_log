@@ -1,0 +1,1 @@
+[14-Mar-2018 06:36:19 Africa/Nairobi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/webcubeco/public_html/E-Commerce/customer/functions/functions.php on line 2
